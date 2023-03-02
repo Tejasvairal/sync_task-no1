@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/beaches.png);
+    background-repeat: no-repeat;
+    background-size: 1770px;
+    
+
+}
