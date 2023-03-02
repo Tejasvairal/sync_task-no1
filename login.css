@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    /*background-color: red;*/
+    background-image: url(images/2.png.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size:cover;
+    position: fixed;
+   
+}
+.container{
+    margin: 550px;
+    padding-left: 650;
+    padding-right: 50px;
+    width: 25%;
+    margin-top: 200px;
+}
+.login-container{
+    margin: 5px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: rgb(68, 57, 57); 
+    background-image: url(images/4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.head{
+    margin: 0px;
+    padding: 25px;
+   
+}
+.user-container{
+    font-size: 20px;
+   
+
+}
+h1{
+    color:rgb(12, 9, 9);
+   font-size:  25px;
+    padding-left: 50px;
+   
+}
+u {
+   color: blue;
+}
+.password-container{
+    font-size: 20px;
+    color: rgb(55, 3, 3);
+}
+a{
+    font-size: 15px;
+    align-items: center;
+}
+.forgot-container{
+    font-size: 15px;
+    padding-left: 30px;
+    color: rgb(0, 0, 0);
+   
+}
+.loginbtn{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+input[type="button"]{
+    background-color: rgb(57, 25, 240);
+    color: rgb(102, 238, 233);
+    padding: 7px 20px;
+    font-size: 16px;
+    border-color:#36c6dc ;
+    cursor: pointer;
+    border-radius: 8px;
+}
+input[type="button"]:hover{
+    background-color: #36c6dc;
+    color: blueviolet;
+    border-color:#36c6dc ;
+}
